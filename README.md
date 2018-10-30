@@ -1,13 +1,5 @@
 # PyData San Francisco 2016 - ARIMA Tutorial
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> dev
-
-=======
->>>>>>> dev
 To clone this repository, run the command:
 ```bash
 git clone git@github.com:silicon-valley-data-science/pydata-sf-2016-arima-tutorial.git
