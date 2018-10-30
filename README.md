@@ -1,6 +1,9 @@
 # PyData San Francisco 2016 - ARIMA Tutorial
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> dev
 
 To clone this repository, run the command:
 ```bash
